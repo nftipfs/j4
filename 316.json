@@ -1,0 +1,50 @@
+{
+  "name": "DOGS WIF #317",
+  "symbol": "WOOF",
+  "description": "Inspired by the most popular dog meme on home blockchain.",
+  "seller_fee_basis_points": 0,
+  "image": "https://raw.githubusercontent.com/nftipfs/q4/main/316.png",
+  "external_url": "WOOF",
+  "edition": 316,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gradient "
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown "
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cartoon "
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "White Dress"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Orange Hat"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/nftipfs/q4/main/316.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "AcUQiceFBBJtyVasd157SrDkJp2qje8ihypzi41Nma1U",
+        "share": 100
+      }
+    ]
+  }
+}
